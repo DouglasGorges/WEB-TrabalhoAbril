@@ -1,0 +1,81 @@
+body {
+    padding: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header {
+    font-size: 35px;
+    color: cornsilk;
+    background-color: RGB(176, 67, 67);
+    padding: 20px 0px 10px 20px;
+}
+
+fieldset {
+    border: none;
+}
+
+fieldset legend {
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+fieldset label {
+    font-size: 10px;
+}
+
+section {
+    display: flex;
+    margin-top: 20px;
+}
+
+footer {
+    font-weight: 300;
+    text-align: center;
+    border-top: darksalmon solid;
+    border-width: 2px;
+    padding-top: 20px;
+}
+
+.links {
+    display: flex;
+    border-bottom: darksalmon solid;
+    border-width: 2px;
+    justify-content: center;
+}
+
+.links>div {
+    margin: 10px;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+    border: darksalmon solid;
+}
+
+#nome,
+#email,
+#telefone,
+#prioridade,
+#mensagem {
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+input[type=text],
+input[type=tel],
+input[type=email],
+input[type=submit],
+select,
+textarea {
+    width: 300px;
+}
+
+textarea {
+    height: 80px;
+}
+
+input[type=submit] {
+    background-color: darksalmon;
+    color: floralwhite;
+    border-radius: 3px;
+}

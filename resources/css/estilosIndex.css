@@ -76,11 +76,3 @@ footer {
     border-left: darkslategrey solid;
     border-width: 1px;
 }
-
-#nome,
-#email,
-#telefone,
-#prioridade,
-#mensagem {
-    border-radius: 5px;
-}
