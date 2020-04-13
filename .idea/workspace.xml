@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d02a66d-1e3b-49c7-ba71-d2374987de03" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aSIDR2UUDXpd8wTxl2CixTa9Bi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="settings.editor.selected.configurable" value="com.poratu.idea.plugins.tomcat.setting.TomcatSettingConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="adminPort" value="8005" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="contextPath" value="/" />
+      <option name="customContext" value="$PROJECT_DIR$/../../../Servers/apache-tomcat-10.0.0-M4/lib" />
+      <option name="docBase" value="$PROJECT_DIR$/../../../Servers" />
+      <option name="envOptions">
+        <map />
+      </option>
+      <option name="moduleName" />
+      <option name="passParentEnvironmentVariables" value="true" />
+      <option name="port" value="8080" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 10.0.0-M4" />
+          <option name="number" value="0" />
+          <option name="path" value="$PROJECT_DIR$/../../../Servers/apache-tomcat-10.0.0-M4" />
+          <option name="version" value="10.0.0.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="adminPort" value="8005" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="contextPath" value="/" />
+      <option name="customContext" value="" />
+      <option name="docBase" value="$PROJECT_DIR$/../../../Servers" />
+      <option name="envOptions" />
+      <option name="moduleName" />
+      <option name="passParentEnvironmentVariables" value="true" />
+      <option name="port" value="8080" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 10.0.0-M4" />
+          <option name="number" value="0" />
+          <option name="path" value="$PROJECT_DIR$/../../../Servers/apache-tomcat-10.0.0-M4" />
+          <option name="version" value="10.0.0.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="319" y="115" key="#Google_App_Engine_Dev_Server" timestamp="1586723567912">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="319" y="115" key="#Google_App_Engine_Dev_Server/0.0.1440.900@0.0.1440.900" timestamp="1586723567912" />
+    <state x="183" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586732280074">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="183" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1586732280074" />
+    <state x="481" y="173" key="DetectedRootsChooserDialog" timestamp="1586723249196">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="481" y="173" key="DetectedRootsChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1586723249196" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1586726187080">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1586726187080" />
+    <state x="397" y="278" key="com.intellij.ide.util.TipDialog" timestamp="1586725396823">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="278" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1586725396823" />
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1586722664300" />
+  </component>
+</project>
