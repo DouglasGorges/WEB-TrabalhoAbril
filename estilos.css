@@ -12,6 +12,14 @@ header {
     padding-bottom: 10px;
 }
 
+fieldset {
+    border: none;
+}
+
+fieldset legend {
+    font-size: 30px;
+}
+
 section {
     display: flex;
 }
@@ -67,4 +75,12 @@ footer {
 .pessoais {
     border-left: darkslategrey solid;
     border-width: 1px;
+}
+
+#nome,
+#email,
+#telefone,
+#prioridade,
+#mensagem {
+    border-radius: 5px;
 }
