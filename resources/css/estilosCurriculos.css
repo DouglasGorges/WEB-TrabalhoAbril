@@ -20,6 +20,12 @@ fieldset legend {
 
 section {
     display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+section article {
+    margin: 20px 10px;
 }
 
 h3 {
@@ -28,6 +34,17 @@ h3 {
 
 article {
     vertical-align: top;
+    flex: 3;
+}
+
+aside {
+    flex: 1;
+    border-right: RGB(176, 67, 67) solid;
+    border-width: 1px;
+}
+
+aside article {
+    text-align: center;
 }
 
 article h3 {
@@ -43,14 +60,14 @@ article p {
 footer {
     font-weight: 300;
     text-align: center;
-    border-top: darksalmon solid;
+    border-top: RGB(176, 67, 67) solid;
     border-width: 2px;
     padding-top: 20px;
 }
 
 .links {
     display: flex;
-    border-bottom: darksalmon solid;
+    border-bottom: RGB(176, 67, 67) solid;
     border-width: 2px;
     justify-content: center;
 }
@@ -60,5 +77,53 @@ footer {
     text-align: center;
     font-size: 15px;
     padding: 10px;
-    border: darksalmon solid;
+    border: RGB(176, 67, 67) solid;
+}
+
+img {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.educacao {
+    margin-bottom: 10px;
+}
+
+.cursosSection {
+    display: flex;
+    border-top: dimgray solid;
+    border-bottom: dimgray solid;
+    border-width: 1px;
+}
+
+.cursos {
+    flex: 1;
+    margin-top: 20px;
+}
+
+.cursos legend {
+    font-size: 15px;
+    color: RGB(176, 67, 67);
+}
+
+.cursos label {
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.cursos .curso {
+    font-weight: 300;
+}
+
+.cursos .periodo {
+    color: dimgrey;
+    font-weight: 300;
+}
+
+.experiencia {
+    margin-top: 20px;
 }

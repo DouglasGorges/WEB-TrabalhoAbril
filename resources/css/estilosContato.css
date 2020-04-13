@@ -64,7 +64,7 @@ footer {
 input[type=text],
 input[type=tel],
 input[type=email],
-input[type=submit],
+input[type=button],
 select,
 textarea {
     width: 300px;
@@ -74,7 +74,7 @@ textarea {
     height: 80px;
 }
 
-input[type=submit] {
+input[type=button] {
     background-color: darksalmon;
     color: floralwhite;
     border-radius: 3px;
